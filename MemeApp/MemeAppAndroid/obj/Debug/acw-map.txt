@@ -1,0 +1,8 @@
+MemeAppAndroid.MainActivity, MemeAppAndroid;md5c8de90c22535d37f6d0af5cb53f28557.MainActivity
+MemeAppAndroid.MainActivity, MemeAppAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c8de90c22535d37f6d0af5cb53f28557.MainActivity
+MemeAppAndroid.MainActivity;md5c8de90c22535d37f6d0af5cb53f28557.MainActivity
+memeappandroid.MainActivity;md5c8de90c22535d37f6d0af5cb53f28557.MainActivity
+MemeAppAndroid.DetailActivity, MemeAppAndroid;md5c8de90c22535d37f6d0af5cb53f28557.DetailActivity
+MemeAppAndroid.DetailActivity, MemeAppAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c8de90c22535d37f6d0af5cb53f28557.DetailActivity
+MemeAppAndroid.DetailActivity;md5c8de90c22535d37f6d0af5cb53f28557.DetailActivity
+memeappandroid.DetailActivity;md5c8de90c22535d37f6d0af5cb53f28557.DetailActivity

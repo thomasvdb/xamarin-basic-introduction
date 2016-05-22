@@ -1,0 +1,5 @@
+/Users/thomasvdb/OneDrive/Documents/Team4Talent/Opleidingen/2016/Xamarin/Code - Third attempt/MemeApp/MemeApp.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/thomasvdb/OneDrive/Documents/Team4Talent/Opleidingen/2016/Xamarin/Code - Third attempt/MemeApp/MemeApp.Core/bin/Debug/MemeApp.Core.dll.mdb
+/Users/thomasvdb/OneDrive/Documents/Team4Talent/Opleidingen/2016/Xamarin/Code - Third attempt/MemeApp/MemeApp.Core/bin/Debug/MemeApp.Core.dll
+/Users/thomasvdb/OneDrive/Documents/Team4Talent/Opleidingen/2016/Xamarin/Code - Third attempt/MemeApp/MemeApp.Core/obj/Debug/MemeApp.Core.dll
+/Users/thomasvdb/OneDrive/Documents/Team4Talent/Opleidingen/2016/Xamarin/Code - Third attempt/MemeApp/MemeApp.Core/obj/Debug/MemeApp.Core.dll.mdb
